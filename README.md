@@ -79,8 +79,10 @@ See the full Jupyter Notebook here:
 1️⃣ Clone this repo  
 2️⃣ Install dependencies:
 ```
-pip install pandas numpy matplotlib seaborn textblob scikit-learn
+pip install streamlit seaborn textblob scikit-learn
+streamlit run app.py
 ```
-👤 Author
+For more, let's connect me on linkedin(https://www.linkedin.com/in/ambrose-henry-m-30bb84235/)
+
 Ambrose Henry
  2025
