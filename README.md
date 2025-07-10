@@ -61,7 +61,7 @@ View the interactive Streamlit dashboard here:
 ## 📂 **Notebook**
 
 See the full Jupyter Notebook here:  
-**[📘 View on GitHub]()**
+**[📘 View on GitHub](https://github.com/IamAmbrose/google_play_store_apps/blob/main/google%20play%20store%20app%20.ipynb)**
 
 ---
 
