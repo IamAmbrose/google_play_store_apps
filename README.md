@@ -82,7 +82,7 @@ See the full Jupyter Notebook here:
 pip install streamlit seaborn textblob scikit-learn
 streamlit run app.py
 ```
-For more, let's connect me on linkedin(https://www.linkedin.com/in/ambrose-henry-m-30bb84235/)
+For more, let's connect on linkedin **[Linkedin](https://www.linkedin.com/in/ambrose-henry-m-30bb84235/)**
 
 Ambrose Henry
  2025
