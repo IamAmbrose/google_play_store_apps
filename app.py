@@ -17,7 +17,6 @@ def load_data():
 df, df_reviews = load_data()
 
 st.title("📱 Google Play Store Apps Dashboard")
--
 # Data Cleaning
 
 df['Reviews'] = pd.to_numeric(df['Reviews'], errors='coerce')
