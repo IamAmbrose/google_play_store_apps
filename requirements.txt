@@ -4,4 +4,4 @@ matplotlib
 seaborn
 streamlit
 textblob
-scikit
+scikit-learn
