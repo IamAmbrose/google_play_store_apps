@@ -54,7 +54,7 @@ It combines **data cleaning**, **visualization**, **sentiment analysis of user r
 ## 📈 **Live Dashboard**
 
 View the interactive Streamlit dashboard here:  
-**[📊 Open Dashboard]()**
+**[📊 Open Dashboard](https://appplaystoreapps-gxcjgj5vfpf8gdjgckxdcb.streamlit.app/)**
 
 ---
 
